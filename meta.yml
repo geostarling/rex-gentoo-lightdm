@@ -1,0 +1,4 @@
+Name: Rex::Gentoo::LightDM
+Description: The LightDM service module
+Author: Jiří Špaček spaceji3@fit.cvut.cz
+License: MIT
